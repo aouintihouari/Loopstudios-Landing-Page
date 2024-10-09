@@ -229,28 +229,28 @@
   opacity: 1;
 }
 .container .creations .gallery .deep-earth {
-  background-image: url("/images/desktop/image-deep-earth.jpg");
+  background-image: url("../images/desktop/image-deep-earth.jpg");
 }
 .container .creations .gallery .night-arcade {
-  background-image: url("/images/desktop/image-night-arcade.jpg");
+  background-image: url("../images/desktop/image-night-arcade.jpg");
 }
 .container .creations .gallery .soccer-team-vr {
-  background-image: url("/images/desktop/image-soccer-team.jpg");
+  background-image: url("../images/desktop/image-soccer-team.jpg");
 }
 .container .creations .gallery .the-grid {
-  background-image: url("/images/desktop/image-grid.jpg");
+  background-image: url("../images/desktop/image-grid.jpg");
 }
 .container .creations .gallery .from-up-above-vr {
-  background-image: url("/images/desktop/image-from-above.jpg");
+  background-image: url("../images/desktop/image-from-above.jpg");
 }
 .container .creations .gallery .pocket-borealis {
-  background-image: url("/images/desktop/image-pocket-borealis.jpg");
+  background-image: url("../images/desktop/image-pocket-borealis.jpg");
 }
 .container .creations .gallery .the-curiosity {
-  background-image: url("/images/desktop/image-curiosity.jpg");
+  background-image: url("../images/desktop/image-curiosity.jpg");
 }
 .container .creations .gallery .make-it-fisheye {
-  background-image: url("/images/desktop/image-fisheye.jpg");
+  background-image: url("../images/desktop/image-fisheye.jpg");
 }
 .container .footer {
   display: flex;
@@ -469,28 +469,28 @@
     width: 50%;
   }
   .container .creations .gallery .deep-earth {
-    background-image: url("/images/mobile/image-deep-earth.jpg");
+    background-image: url("../images/mobile/image-deep-earth.jpg");
   }
   .container .creations .gallery .night-arcade {
-    background-image: url("/images/mobile/image-night-arcade.jpg");
+    background-image: url("../images/mobile/image-night-arcade.jpg");
   }
   .container .creations .gallery .soccer-team-vr {
-    background-image: url("/images/mobile/image-soccer-team.jpg");
+    background-image: url("../images/mobile/image-soccer-team.jpg");
   }
   .container .creations .gallery .the-grid {
-    background-image: url("/images/mobile/image-grid.jpg");
+    background-image: url("../images/mobile/image-grid.jpg");
   }
   .container .creations .gallery .from-up-above-vr {
-    background-image: url("/images/mobile/image-from-above.jpg");
+    background-image: url("../images/mobile/image-from-above.jpg");
   }
   .container .creations .gallery .pocket-borealis {
-    background-image: url("/images/mobile/image-pocket-borealis.jpg");
+    background-image: url("../images/mobile/image-pocket-borealis.jpg");
   }
   .container .creations .gallery .the-curiosity {
-    background-image: url("/images/mobile/image-curiosity.jpg");
+    background-image: url("../images/mobile/image-curiosity.jpg");
   }
   .container .creations .gallery .make-it-fisheye {
-    background-image: url("/images/mobile/image-fisheye.jpg");
+    background-image: url("../images/mobile/image-fisheye.jpg");
   }
   .container .footer {
     flex-direction: column;
@@ -523,4 +523,4 @@
     margin-top: -1rem;
     margin-inline: auto;
   }
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
